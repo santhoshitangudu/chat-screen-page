@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+    border: none;
+    list-style: none;
+    box-sizing: border-box;
+    text-transform: capitalize;
+    font-family: "roboto";
+    font-size: 20px;
+}
+.rahul-bg-container{
+    background-image: url(chatbg.png);
+    background-size: cover;
+    color: #ffffff;
+    height: 100%;
+    width: 100%;
+
+}
+.headding{
+    background-color: #323f4b;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 32px;
+    font-weight: bold;
+}
+.msg-container{
+    padding: 50px 20px 30px 20px;
+}
+.para{
+    background-color: #47a3f3;
+    text-align: right;
+    padding: 15px;
+    border-bottom-left-radius:10px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 20px;
+}
+.para1{
+    background-color: #323f4b;
+    text-align: left;
+    padding: 15px;
+    border-bottom-right-radius:10px ;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    margin-bottom: 20px;
+}
